@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ali2abzal
+- 👋 Hi, I’m @ali abzal
 - 👀 I’m interested in machine vision and deep learning
 - 🌱 I’m currently learning python programming
 - 💞️ I’m looking to collaborate on vision inspection projects in industry
